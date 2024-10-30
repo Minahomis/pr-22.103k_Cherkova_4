@@ -1,0 +1,15 @@
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\bin\Debug\pr-22.103k_Cherkova_4.exe.config
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\bin\Debug\pr-22.103k_Cherkova_4.exe
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\bin\Debug\pr-22.103k_Cherkova_4.pdb
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.csproj.AssemblyReference.cache
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\MainWindow.g.cs
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\App.g.cs
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4_MarkupCompile.cache
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4_MarkupCompile.lref
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\MainWindow.baml
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.g.resources
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr_22._103k_Cherkova_4.Properties.Resources.resources
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.csproj.GenerateResource.cache
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.csproj.CoreCompileInputs.cache
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.exe
+C:\Users\Minahomis\source\repos\pr-22.103k_Cherkova_4\pr-22.103k_Cherkova_4\obj\Debug\pr-22.103k_Cherkova_4.pdb
